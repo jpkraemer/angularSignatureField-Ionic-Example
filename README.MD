@@ -1,4 +1,4 @@
-# Signature Field Ionic Demo
+# Angular Signature Field &mdash; Ionic Demo
 
 This is a demo showing the [angular-signature-field directive](https://github.com/jpkraemer/angularSignatureField) in action in an Ionic app.
 In our demo, the controller is implemented in `www/js/app.js`. It shows the image in a separate img tag when pressing Save, and clears the canvas when pressing Clear.
@@ -6,8 +6,9 @@ In our demo, the controller is implemented in `www/js/app.js`. It shows the imag
 ## Install
 
 ```
-$ git clone https://github.com/jpkraemer/angularSignatureField-Ionic-Example.git
-$ bower i
+git clone https://github.com/jpkraemer/angularSignatureField-Ionic-Example.git
+cd angularSignatureField-Ionic-Example
+bower i
 ```
 
 ## Run
